@@ -379,6 +379,15 @@
       <outputFileNameMapping>social-juzu.war</outputFileNameMapping>
       <useProjectArtifact>false</useProjectArtifact>
     </dependencySet>
+    <dependencySet>
+      <outputDirectory>/webapps</outputDirectory>
+      <includes>
+        <include>org.exoplatform.social:social-webapp-spaces-administration:war</include>
+      </includes>
+      <scope>provided</scope>
+      <outputFileNameMapping>spaceAdministration.war</outputFileNameMapping>
+      <useProjectArtifact>false</useProjectArtifact>
+    </dependencySet>
 		<dependencySet>
       <outputDirectory>/webapps</outputDirectory>
       <includes>
