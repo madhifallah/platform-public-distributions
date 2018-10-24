@@ -634,12 +634,12 @@
     </dependency>
     <dependency>
       <groupId>org.exoplatform.social</groupId>
-      <artifactId>social-webapp-spaces-administration</artifactId>
+      <artifactId>social-webapp-vue-portlet</artifactId>
       <type>war</type>
     </dependency>
     <dependency>
       <groupId>org.exoplatform.social</groupId>
-      <artifactId>social-webapp-spaces-administration</artifactId>
+      <artifactId>social-webapp-vue-portlet</artifactId>
       <type>pom</type>
     </dependency>
     <dependency>

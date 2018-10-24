@@ -382,10 +382,10 @@
     <dependencySet>
       <outputDirectory>/webapps</outputDirectory>
       <includes>
-        <include>org.exoplatform.social:social-webapp-spaces-administration:war</include>
+        <include>org.exoplatform.social:social-webapp-vue-portlet:war</include>
       </includes>
       <scope>provided</scope>
-      <outputFileNameMapping>spaceAdministration.war</outputFileNameMapping>
+      <outputFileNameMapping>social-vue-portlet.war</outputFileNameMapping>
       <useProjectArtifact>false</useProjectArtifact>
     </dependencySet>
 		<dependencySet>
