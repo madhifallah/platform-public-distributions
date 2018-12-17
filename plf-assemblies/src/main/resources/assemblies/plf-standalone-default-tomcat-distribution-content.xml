@@ -55,6 +55,7 @@
         <exclude>**/NOTICE*</exclude>
         <exclude>**/RELEASE-NOTES*</exclude>
         <exclude>**/RUNNING*</exclude>
+        <exclude>**/conf/web.xml</exclude>
         <!-- PLF-5893 Wrong warning message when connect with disabled user -->
         <exclude>**/conf/context.xml</exclude>
       </excludes>
